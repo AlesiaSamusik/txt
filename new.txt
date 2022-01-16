@@ -1,11 +1,6 @@
-"surname": "Samusik",
-"name": "Alesia",
-"patronymic":"Aleksandrovna",
-"age": 26,
-"number pets": "no",
-"future desired salary": "million dollars[D[D[D[D[D[D[D[D[D[D[D[D[D[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[[A[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[Csurname-Samusik
-name-Alesia
-patronymic- [A[D[D[D[D[D[D[D A[A[A[B[C Samusik[B[B[D[D[D[D[D Aleksandrovna[C[D[D[D[D[D[D[D[D[D[D[D[D[D[ [C[C[C[C[C[C[C[C[C[C[C[C[C
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0[C[C[C[C[C[C[Csandrovna
+surname- Samusik
+name- Alesia
+patronymic- Aleksandrovna
 age- 26
-number desired salary- million dollars
+number pets- no
+future desired salary- million dollars
