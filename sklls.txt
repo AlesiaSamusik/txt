@@ -1,0 +1,13 @@
+information about the skills that will be studied on the course:
+-Basic theory
+-client server architecture
+-Server Request Methods
+-Server responses
+-What is JSON, XML
+-API testing
+-Removing and reading logs
+-Postman, Fidler
+-VPN
+-Dev Tools
+-Mobile testing
+-and much more.
