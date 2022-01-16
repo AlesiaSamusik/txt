@@ -1,1 +1,15 @@
-
+summary- INCORRECT DATA - NO NOTIFICATION
+project- mail
+component- registration
+version- 1
+severity- major
+priority- medium
+status- new
+author- samusik alesia
+assigned to- ptichkin stepan
+steps to reproduce:
+1.open page http://gmail.com
+2.enter email address
+3.without entering a password, press the login button",
+result- no request to fill in the password field
+expected result- an alert appears asking you to enter your password.
